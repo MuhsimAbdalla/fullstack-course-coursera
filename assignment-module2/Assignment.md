@@ -1,5 +1,7 @@
 # Module 2 Coding Assignment
-for the completed code solution, please go to this link https://muhsimabdalla.github.io/fullstack-course-coursera/assignment-module2/
+
+ For the completed code solution, check this  [link](https://muhsimabdalla.github.io/fullstack-course-coursera/assignment-module2/)
+
 Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
 Woo-hoo! You get to do some coding! Exciting!
